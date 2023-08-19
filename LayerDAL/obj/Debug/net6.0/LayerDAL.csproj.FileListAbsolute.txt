@@ -1,0 +1,14 @@
+D:\NetCore\RunGroopWebApp\LayerDAL\bin\Debug\net6.0\LayerDAL.deps.json
+D:\NetCore\RunGroopWebApp\LayerDAL\bin\Debug\net6.0\LayerDAL.runtimeconfig.json
+D:\NetCore\RunGroopWebApp\LayerDAL\bin\Debug\net6.0\LayerDAL.dll
+D:\NetCore\RunGroopWebApp\LayerDAL\bin\Debug\net6.0\LayerDAL.pdb
+D:\NetCore\RunGroopWebApp\LayerDAL\obj\Debug\net6.0\LayerDAL.csproj.AssemblyReference.cache
+D:\NetCore\RunGroopWebApp\LayerDAL\obj\Debug\net6.0\LayerDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCore\RunGroopWebApp\LayerDAL\obj\Debug\net6.0\LayerDAL.AssemblyInfoInputs.cache
+D:\NetCore\RunGroopWebApp\LayerDAL\obj\Debug\net6.0\LayerDAL.AssemblyInfo.cs
+D:\NetCore\RunGroopWebApp\LayerDAL\obj\Debug\net6.0\LayerDAL.csproj.CoreCompileInputs.cache
+D:\NetCore\RunGroopWebApp\LayerDAL\obj\Debug\net6.0\LayerDAL.dll
+D:\NetCore\RunGroopWebApp\LayerDAL\obj\Debug\net6.0\refint\LayerDAL.dll
+D:\NetCore\RunGroopWebApp\LayerDAL\obj\Debug\net6.0\LayerDAL.pdb
+D:\NetCore\RunGroopWebApp\LayerDAL\obj\Debug\net6.0\LayerDAL.genruntimeconfig.cache
+D:\NetCore\RunGroopWebApp\LayerDAL\obj\Debug\net6.0\ref\LayerDAL.dll
